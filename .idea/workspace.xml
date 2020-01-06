@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286143e6-9f15-4743-ab1a-60aec3afec15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="to-do_app" />
+  </component>
+  <component name="ProjectId" id="1Uingq1fZYyjfQVlgA52YrKtzYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\web\to-do_app\src\components" />
+      <recent name="C:\Users\User\Desktop\web\to-do_app\src\components\Panels" />
+      <recent name="C:\Users\User\Desktop\web\to-do_app\src\components\AppHeader" />
+      <recent name="C:\Users\User\Desktop\web\to-do_app\src\components\Title" />
+      <recent name="C:\Users\User\Desktop\web\to-do_app\src\components\TodoListItem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286143e6-9f15-4743-ab1a-60aec3afec15" name="Default Changelist" comment="" />
+      <created>1575848396815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575848396815</updated>
+      <workItem from="1575848399461" duration="565000" />
+      <workItem from="1575848988352" duration="17835000" />
+      <workItem from="1576092284956" duration="9597000" />
+      <workItem from="1576347062580" duration="4888000" />
+      <workItem from="1576411330350" duration="20560000" />
+      <workItem from="1577010301435" duration="4195000" />
+      <workItem from="1577014509388" duration="4601000" />
+      <workItem from="1577917195991" duration="10025000" />
+      <workItem from="1578004473991" duration="13301000" />
+      <workItem from="1578176242718" duration="1254000" />
+      <workItem from="1578178201365" duration="3401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577010001044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="209" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577010001044" />
+    <state x="160" y="328" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576007836445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="328" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576007836445" />
+    <state x="160" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578004421867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578004421867" />
+    <state x="627" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577013863697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577013863697" />
+    <state x="210" y="203" key="FileChooserDialogImpl" timestamp="1576007835269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="203" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576007835269" />
+    <state width="906" height="244" key="GridCell.Tab.0.bottom" timestamp="1576092274969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576092274969" />
+    <state width="906" height="244" key="GridCell.Tab.0.center" timestamp="1576092274969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576092274969" />
+    <state width="906" height="244" key="GridCell.Tab.0.left" timestamp="1576092274969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576092274969" />
+    <state width="906" height="244" key="GridCell.Tab.0.right" timestamp="1576092274969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576092274969" />
+    <state x="52" y="240" key="run.anything.popup" timestamp="1575919409026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="52" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575919409026" />
+    <state x="201" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578303992140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="201" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578303992140" />
+  </component>
+</project>

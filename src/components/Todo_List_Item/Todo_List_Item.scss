@@ -1,0 +1,58 @@
+.todo_list_item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 300;
+
+    .todo_list_item_label {
+        cursor: pointer;
+    }
+
+    .button_container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        button {
+            width: 35px;
+            height: 35px;
+            outline: none;
+            border-radius: 3px;
+            transition:all 0.3s;
+            box-shadow: inset -30px -30px 50px -50px rgba(0, 0, 0, 1);
+            color: #FFFFFF;
+            font-size: 16px;
+
+            &:hover{
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.3), inset -30px -30px 50px -50px rgba(255, 255, 255, 1);
+            }
+
+            &:active {
+                box-shadow: inset 30px 30px 50px -50px rgba(0, 0, 0, 1);
+            }
+        }
+
+        .delete {
+            margin-right: 10px;
+            border: 1px solid #C73330;
+            background-color: #C73330;
+        }
+
+        .mark {
+            margin-left: 10px;
+            border: 1px solid green;
+            background-color: green;
+        }
+    }
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    font-weight: 400;
+    color: steelblue;
+}
